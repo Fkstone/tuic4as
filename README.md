@@ -10,7 +10,7 @@ A fully automated installation script for setting up a TUIC v5 server using `sin
 
 #### ✅ Features:
 
-- Installs `sing-box-go` using `opkg` (no manual download)
+- Installs `sing-box-go` using `opkg` 
 - Generates ECC private key and a self-signed TLS certificate
 - Randomly generates UUID and password
 - Prompts user for port number and preferred IP strategy (IPv4/IPv6)
