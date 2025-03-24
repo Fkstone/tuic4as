@@ -28,6 +28,7 @@ A fully automated installation script for setting up a TUIC v5 server using `sin
 #### ▶ Usage:
 
 ```bash
+wget https://raw.githubusercontent.com/Fkstone/tuic4as/main/tuic4as.sh
 chmod +x tuic4as.sh
 ./tuic4as.sh
 ```
@@ -47,6 +48,7 @@ A cleanup script to fully uninstall the `sing-box` TUIC server and related files
 #### ▶ Usage:
 
 ```bash
+wget https://raw.githubusercontent.com/Fkstone/tuic4as/main/untuic.sh
 chmod +x untuic.sh
 ./untuic.sh
 ```
