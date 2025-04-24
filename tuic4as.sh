@@ -122,7 +122,6 @@ exit 0
 EOF
 
 chmod +x "$INIT_SCRIPT" || exit_on_error
-ln -sf "$INIT_SCRIPT" /opt/etc/rc.d/S99sing-box || exit_on_error
 
 # Step 8: Start service immediately
 step 8 "Starting sing-box service"
